@@ -2,7 +2,7 @@
 A little 2D pixel-art video game (RPG style) developped for learning purpose
 
 ## Preview
-![Demo screenshot](/doc/img/screenshot-demo.png)
+![Demo screenshot](screenshot-demo.png)
 
 ## Features
 * Auto 2D tiles
@@ -15,6 +15,8 @@ A little 2D pixel-art video game (RPG style) developped for learning purpose
 ## Map (TODOs)
 
 * Add enemies with hitbox and killed annimation
+* Add sound
+* Add music
 * Create inventory feature
 * Create map feature
 * Create welcome screen
