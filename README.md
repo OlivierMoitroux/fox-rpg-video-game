@@ -12,7 +12,7 @@ A little 2D pixel-art video game (RPG style) developped for learning purpose wit
 * Destroyable grass with hitbox and annimation
 * Collisions with environment
 
-## Map (TODOs)
+## Roadmap (TODOs)
 
 * Add enemies with hitbox and killed annimation
 * Add sound
